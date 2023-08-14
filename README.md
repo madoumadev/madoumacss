@@ -1,2 +1,2 @@
 # Madouma CSS  
-Leaning sass and gulp 
+Leaning SCSS(Sass) and gulp 
